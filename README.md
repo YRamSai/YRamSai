@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YRamSai
-- 👀 I’m interested in - AL/ML and Blockchain
-- 🌱 I’m currently working on -Software development - Java(SpringBoot), Fullstack developer(Angular)
+- 👀 I’m interested in - AI, ML, and Blockchain
+- 🌱 I’m currently working on -Software development - Java 8, SpringBoot, MySQL, and AWS.
 - 📫 How to reach me - ramsaiyerra7@gmail.com
 
 <!---
