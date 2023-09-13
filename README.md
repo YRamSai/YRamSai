@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @YRamSai
-- 👀 I’m interested in - AI, ML, and Blockchain
-- 🌱 I’m currently working on -Software development - Java 8, SpringBoot, MySQL, and AWS.
-- 📫 How to reach me - ramsaiyerra7@gmail.com
+- 👋 Hello, I'm Ram Sai, a seasoned Java developer with 8 years of experience. My tech arsenal includes Java 8, Spring Boot, MySQL, Angular, and JavaScript. I'm also skilled in Python, AWS, and Linux scripting.
 
-<!---
-YRamSai/YRamSai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌟 My primary focus is on honing my Java expertise to craft efficient, scalable solutions. Beyond that, I'm embarking on an exciting journey into the world of AI with Python, ready to explore and innovate.
+
+- 📬 Connect with me @ ramsaiyerra7@gmail.com to discuss coding, AI, or anything tech-related. Let's collaborate and learn together!
+
