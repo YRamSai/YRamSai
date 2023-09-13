@@ -2,5 +2,5 @@
 
 - 🌟 My primary focus is on honing my Java expertise to craft efficient, scalable solutions. Beyond that, I'm embarking on an exciting journey into the world of AI with Python, ready to explore and innovate.
 
-- 📬 Connect with me @ ramsaiyerra7@gmail.com to discuss coding, AI, or anything tech-related. Let's collaborate and learn together!
+- 📬 Connect with me at ramsaiyerra7@gmail.com to discuss coding, AI, or anything tech-related. Let's collaborate and learn together!
 
